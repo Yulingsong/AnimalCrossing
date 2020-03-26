@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3c8b2f8-7efc-42d8-8b92-f61c7b59c056" name="Default Changelist" comment="" />
+    <list default="true" id="b3c8b2f8-7efc-42d8-8b92-f61c7b59c056" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/trunk/src/assets/css/normal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trunk/src/assets/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trunk/src/assets/js/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trunk/src/views/ac_main/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trunk/static/js/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trunk/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/trunk/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trunk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/trunk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trunk/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/trunk/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trunk/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/trunk/src/main.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,7 +23,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trunk/src/views/ac_main/main.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="vue File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,7 +51,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/trunk/index.html" />
+        <option value="$PROJECT_DIR$/trunk/src/App.vue" />
+        <option value="$PROJECT_DIR$/trunk/src/assets/css/normal.css" />
+        <option value="$PROJECT_DIR$/trunk/src/main.js" />
+        <option value="$PROJECT_DIR$/trunk/src/assets/js/common.js" />
+        <option value="$PROJECT_DIR$/trunk/src/assets/js/http.js" />
         <option value="$PROJECT_DIR$/trunk/package.json" />
+        <option value="$PROJECT_DIR$/trunk/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/trunk/src/views/ac_main/main.vue" />
       </list>
     </option>
   </component>
@@ -30,6 +67,9 @@
     <option name="y" value="71" />
     <option name="width" value="1251" />
     <option name="height" value="949" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -43,6 +83,71 @@
               <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
               <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnimalCrossing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnimalCrossing" type="462c0819:PsiDirectoryNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -54,11 +159,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/trunk/static" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trunk/static" />
+      <recent name="$PROJECT_DIR$/trunk/src/assets/js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,16 +195,15 @@
       <option name="presentableId" value="Default" />
       <updated>1585209036921</updated>
       <workItem from="1585209038258" duration="302000" />
-      <workItem from="1585209413090" duration="253000" />
+      <workItem from="1585209413090" duration="1222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="555000" />
+    <option name="totallyTimeSpent" value="1524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="381" y="71" width="1251" height="949" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -107,7 +218,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30221704" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24270712" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -118,8 +229,90 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/trunk/package.json" />
-    <entry file="file://$PROJECT_DIR$/trunk/index.html" />
+    <entry file="file://$PROJECT_DIR$/trunk/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/src/assets/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+          <folding>
+            <element signature="e#102#158#0" />
+            <element signature="e#278#543#0" />
+            <element signature="e#581#777#0" />
+            <element signature="e#818#857#0" />
+            <element signature="e#970#2250#0" />
+            <element signature="e#2289#2334#0" />
+            <element signature="e#2372#2468#0" />
+            <element signature="e#2503#2724#0" />
+            <element signature="e#2781#4499#0" />
+            <element signature="e#3413#4186#0" />
+            <element signature="e#4227#4494#0" />
+            <element signature="e#4555#4983#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/src/assets/js/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/static/js/config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="82" column="31" lean-forward="true" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/src/assets/css/normal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="418" selection-start-line="418" selection-end-line="418" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk/src/views/ac_main/main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
