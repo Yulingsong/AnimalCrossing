@@ -217,6 +217,8 @@ input, textarea {
 }
 .main_pop_list{
   padding: 10px 15px;
+  max-height: calc(70vh);
+  overflow-y: scroll;
 }
 .main_pop_list .item{
   height: 40px;

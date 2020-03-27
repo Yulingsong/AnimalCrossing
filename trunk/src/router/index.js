@@ -4,6 +4,8 @@ import Router from 'vue-router'
 Vue.use(Router);
 
 export default new Router({
+  mode:'history',
+  base:'ac',
   routes: [
     {
       path: '*',
@@ -17,9 +19,17 @@ export default new Router({
       path: '/',
       name: 'Main',
       meta: {
-        title: 'ac_main'
+        title: 'main'
       },
       component: resolve => require(['@/views/ac_main/main'], resolve)
+    },
+    {
+      path: '/fish',
+      name: 'Fish',
+      meta: {
+        title: 'fish'
+      },
+      component: resolve => require(['@/views/ac_search/fish'], resolve)
     },
   ]
 })
